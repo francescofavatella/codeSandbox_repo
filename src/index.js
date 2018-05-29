@@ -22,7 +22,7 @@ const App = () => {
     <div style={styles}>
       <Hello name="CodeSandbox" />
       <h2>Immutable.js Playground: open your console tab {"\u2728"}</h2>
-
+      New object is:
       {print(mergedObj)}
     </div>
   );
